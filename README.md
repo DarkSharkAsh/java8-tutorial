@@ -1,4 +1,4 @@
-# Modern Java - A Guide to Java 8
+# Modern Java - A Guide to Java 8 
 _This article was originally posted on [my blog](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)._
 
 > **You should also read my [Java 11 Tutorial](https://winterbe.com/posts/2018/09/24/java-11-tutorial/) (including new language and API features from Java 9, 10 and 11).**
